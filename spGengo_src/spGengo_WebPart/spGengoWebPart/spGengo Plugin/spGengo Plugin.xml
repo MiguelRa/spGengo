@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="cca551ce-4217-4e03-ac12-1671a05ba531" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="WebParts" List="113" Url="_catalogs/wp">
+    <File Path="spGengo Plugin.webpart" Url="spGengo Plugin.webpart" Type="GhostableInLibrary" />
+  </Module>
+</Elements>

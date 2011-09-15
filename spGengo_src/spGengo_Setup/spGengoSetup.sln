@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "spGengoSetup", "spGengoSetup\spGengoSetup.vdproj", "{243496B3-5F2A-431F-877A-A9BA6AD32A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallAction", "InstallAction\InstallAction.csproj", "{AE02E9B9-7830-41FE-974C-AC1516568E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243496B3-5F2A-431F-877A-A9BA6AD32A58}.Debug|Any CPU.ActiveCfg = Debug
+		{243496B3-5F2A-431F-877A-A9BA6AD32A58}.Debug|Any CPU.Build.0 = Debug
+		{243496B3-5F2A-431F-877A-A9BA6AD32A58}.Release|Any CPU.ActiveCfg = Release
+		{243496B3-5F2A-431F-877A-A9BA6AD32A58}.Release|Any CPU.Build.0 = Release
+		{AE02E9B9-7830-41FE-974C-AC1516568E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE02E9B9-7830-41FE-974C-AC1516568E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE02E9B9-7830-41FE-974C-AC1516568E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE02E9B9-7830-41FE-974C-AC1516568E00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

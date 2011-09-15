@@ -1,0 +1,145 @@
+		html, body {
+			font:normal 12px verdana;
+			background:#fff;
+			margin:0;
+			padding:0;
+			border:0 none;	
+			overflow:hidden;
+			height:100%;
+		}
+		p {
+			margin:5px;
+		}
+		.settings {
+			background-image:url(../images/folder_wrench.png);
+		}
+			
+		#header{
+			background: url(../images/header.jpg) repeat-x;
+			}
+		
+		
+		#loading-mask{
+			position:absolute;
+			left:0;
+			top:0;
+			width:100%;
+			height:100%;
+			z-index:20000;
+			background-color:white;
+		}
+		#loading{
+			position:absolute;
+			left:45%;
+			top:40%;
+			padding:2px;
+			z-index:20001;
+			height:auto;
+		}
+		#loading a {
+			color:#225588;
+		}
+		#loading .loading-indicator{
+			background:white;
+			color:#444;
+			font:bold 13px tahoma,arial,helvetica;
+			padding:10px;
+			margin:0;
+			height:auto;
+		}
+		#loading-msg {
+			font: normal 10px arial,tahoma,sans-serif;
+		}
+		
+		
+		.combo-result-item {
+			padding: 2px;
+			border: 1px solid #FFFFFF;
+		}
+		.combo-name {
+			font-weight: bold;
+			font-size: 11px;
+			
+		}
+		.combo-full-address {
+			font-size: 11px;
+			color: #666666;
+		}
+
+.x-icon-calendario{
+ 	background-image:url('../images/calendar-list.png')!important;
+	background-repeat: no-repeat;
+}	
+.x-icon-cerrar-sesion{
+ 	background-image:url('../images/cross.png')!important;
+	background-repeat: no-repeat;
+}		
+.x-icon-nuevo{
+ 	background-image:url('../images/add.gif')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-eliminar{
+ 	background-image:url('../images/delete.gif')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-editar{
+ 	background-image:url('../images/cog_edit.png')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-grabar{
+ 	background-image:url('../images/save.gif')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-cancelar{
+ 	background-image:url('../images/cross.gif')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-menu-cliente{
+	background-image:url('../images/user_gray.png')!important;
+	background-repeat: no-repeat;
+	}
+.x-icon-menu-mantenimiento{
+	background-image:url('../images/plugin.gif')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-reporte{
+	background-image:url('../images/chart-up-color.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-reserva{
+	background-image:url('../images/calendar-day.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-descuento{
+	background-image:url('../images/merito.png')!important;
+	background-repeat: no-repeat;	
+	}	
+.x-icon-menu-pagos{
+	background-image:url('../images/money.png')!important;
+	background-repeat: no-repeat;	
+	}	
+	
+.x-icon-menu-habitacion{
+	background-image:url('../images/door.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-vista-previa{
+	background-image:url('../images/layer-resize-actual.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-cliente-rep{
+	background-image:url('../images/table-delete-row.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-reserva-rep{
+	background-image:url('../images/table-select-cells.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-ingreso-rep{
+	background-image:url('../images/table-money.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-reportar{
+	background-image:url('../images/ui-scroll-pane-blog.png')!important;
+	background-repeat: no-repeat;	
+	}

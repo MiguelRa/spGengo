@@ -1,0 +1,9 @@
+﻿<solution id="5df537c6-08e4-4289-ae55-dba78d807d30" name="spGengo.plugin">
+  <features>
+    <feature id="2dea1cb7-6d83-461f-8505-25b47784a8d2">
+      <featureElements>
+        <featureElement id="cca551ce-4217-4e03-ac12-1671a05ba531" name="spGengo Plugin" />
+      </featureElements>
+    </feature>
+  </features>
+</solution>

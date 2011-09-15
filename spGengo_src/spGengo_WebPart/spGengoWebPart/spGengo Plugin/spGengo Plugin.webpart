@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <!--
+      The following Guid is used as a reference to the web part class, 
+      and it will be automatically replaced with actual type name at deployment time.
+      -->
+      <type name="cca551ce-4217-4e03-ac12-1671a05ba531" />
+      <importErrorMessage>Cannot import spGengo web part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">spGengo web part</property>
+        <property name="Description" type="string">Human translation within SharePoint sites.</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

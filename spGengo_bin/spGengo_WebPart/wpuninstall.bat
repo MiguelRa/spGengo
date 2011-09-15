@@ -1,0 +1,1 @@
+wpinstall.bat /uninstall

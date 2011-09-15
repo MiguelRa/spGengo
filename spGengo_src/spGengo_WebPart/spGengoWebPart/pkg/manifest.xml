@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution SolutionId="5df537c6-08e4-4289-ae55-dba78d807d30" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <FeatureManifests>
+    <FeatureManifest Location="spGengoWebPart\feature.xml" />
+  </FeatureManifests>
+  <Assemblies>
+    <Assembly Location="MiguelRa.SPGengo.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+</Solution>

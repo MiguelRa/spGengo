@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myGengoClient", "spGengo_MyGengoClient\myGengoClient\myGengoClient.csproj", "{9F034D2B-EFE6-4BB9-99F7-52FBBB0E2D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util", "spGengo_MyGengoClient\Util\Util.csproj", "{55C8AED9-F4D0-49C4-B764-9998B89D3500}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "spGengoSetup", "spGengo_Setup\spGengoSetup\spGengoSetup.vdproj", "{498D34A5-C001-4B73-A7CE-7C8476DCC5D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spGengoWebPart", "spGengo_WebPart\spGengoWebPart\spGengoWebPart.csproj", "{F693193D-DE17-495B-9E0C-4061C68CBB07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F034D2B-EFE6-4BB9-99F7-52FBBB0E2D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F034D2B-EFE6-4BB9-99F7-52FBBB0E2D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F034D2B-EFE6-4BB9-99F7-52FBBB0E2D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F034D2B-EFE6-4BB9-99F7-52FBBB0E2D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C8AED9-F4D0-49C4-B764-9998B89D3500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C8AED9-F4D0-49C4-B764-9998B89D3500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C8AED9-F4D0-49C4-B764-9998B89D3500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C8AED9-F4D0-49C4-B764-9998B89D3500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498D34A5-C001-4B73-A7CE-7C8476DCC5D5}.Debug|Any CPU.ActiveCfg = Debug
+		{498D34A5-C001-4B73-A7CE-7C8476DCC5D5}.Debug|Any CPU.Build.0 = Debug
+		{498D34A5-C001-4B73-A7CE-7C8476DCC5D5}.Release|Any CPU.ActiveCfg = Release
+		{498D34A5-C001-4B73-A7CE-7C8476DCC5D5}.Release|Any CPU.Build.0 = Release
+		{F693193D-DE17-495B-9E0C-4061C68CBB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F693193D-DE17-495B-9E0C-4061C68CBB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F693193D-DE17-495B-9E0C-4061C68CBB07}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F693193D-DE17-495B-9E0C-4061C68CBB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F693193D-DE17-495B-9E0C-4061C68CBB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F693193D-DE17-495B-9E0C-4061C68CBB07}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

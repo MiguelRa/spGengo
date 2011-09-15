@@ -1,0 +1,204 @@
+
+		.settings {
+			background-image:url(../images/folder_wrench.png);
+			
+		}
+			
+		#header{
+			background: url(../images/header.jpg) repeat-x;
+			}
+		
+		
+		#loading-mask{
+			position:absolute;
+			left:0;
+			top:0;
+			width:100%;
+			height:100%;
+			z-index:20000;
+			background-color:white;
+		}
+		#loading{
+			position:absolute;
+			left:45%;
+			top:40%;
+			padding:2px;
+			z-index:20001;
+			height:auto;
+		}
+		#loading a {
+			color:#225588;
+		}
+		#loading .loading-indicator{
+			background:white;
+			color:#444;
+			font:bold 13px tahoma,arial,helvetica;
+			padding:10px;
+			margin:0;
+			height:auto;
+		}
+		#loading-msg {
+			font: normal 10px arial,tahoma,sans-serif;
+		}
+		
+		
+		.combo-result-item {
+			padding: 2px;
+			border: 1px solid #FFFFFF;
+		}
+		.combo-name {
+			font-weight: bold;
+			font-size: 11px;
+			
+		}
+		.combo-full-address {
+			font-size: 11px;
+			color: #666666;
+		}
+.caja-texto{
+	text-align:center; border:none;background-image:none;background-color:#DFE8F6; font-weight:bold;
+	}
+.saldo{
+	text-align:center; color: #FF0000; font-size:15px;border:none;background-image:none;background-color:#DFE8F6; font-weight:bold;
+	}
+.local{
+	text-align:center; color:#0C3899; font-size:15px;border:none;background-image:none;background-color:#DFE8F6; font-weight:bold;
+	}	
+.descuento{
+	text-align:center; color: #060; border:none;background-image:none;background-color:#DFE8F6;
+	}	
+	
+.x-icon-calendario{
+ 	background-image:url('../images/calendar-list.png')!important;
+	background-repeat: no-repeat;
+}	
+
+
+.x-icon-cerrar-sesion{
+ 	background-image:url('../images/cross.png')!important;
+	background-repeat: no-repeat;
+}		
+.x-icon-nuevo{
+ 	background-image:url('../images/add.gif')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-eliminar{
+ 	background-image:url('../images/delete.gif')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-editar{
+ 	background-image:url('../images/cog_edit.png')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-grabar{
+ 	background-image:url('../images/save.gif')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-cancelar{
+ 	background-image:url('../images/cross.gif')!important;
+	background-repeat: no-repeat;
+}
+.x-icon-menu-alumno{
+	background-image:url('../images/user_gray.png')!important;
+	background-repeat: no-repeat;
+	}
+.x-icon-menu-mantenimiento{
+	background-image:url('../images/mantenimiento.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-cuenta{
+	background-image:url('../images/cuenta.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-reserva{
+	background-image:url('../images/calendar-day.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-grado{
+	background-image:url('../images/grado.png')!important;
+	background-repeat: no-repeat;	
+	}	
+.x-icon-menu-curso{
+	background-image:url('../images/curso.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-apoderado{
+	background-image:url('../images/apoderado.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-redactar{
+	background-image:url('../images/redactar.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-recibidos{
+	background-image:url('../images/recibidos.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-directorio{
+	background-image:url('../images/directorio.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-boleta-anual{
+	background-image:url('../images/boleta-anual.png')!important;
+	background-repeat: no-repeat;	
+	}	
+	
+.x-icon-menu-anio{
+	background-image:url('../images/anio.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-seccion{
+	background-image:url('../images/seccion.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-consolidado{
+	background-image:url('../images/consolidado.png')!important;
+	background-repeat: no-repeat;	
+	}
+
+.x-icon-menu-merito{
+	background-image:url('../images/merito.png')!important;
+	background-repeat: no-repeat;	
+	}
+	
+.x-icon-menu-merito-grado{
+	background-image:url('../images/merito-grado.png')!important;
+	background-repeat: no-repeat;	
+	}	
+	
+	
+.x-icon-menu-reporte{
+	background-image:url('../images/reporte.png')!important;
+	background-repeat: no-repeat;	
+	}	
+.x-icon-menu-reserva-rep{
+	background-image:url('../images/table-select-cells.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-ingreso-rep{
+	background-image:url('../images/table-money.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-merito-general{
+	background-image:url('../images/merito-general.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-menu-merito-gs{
+	background-image:url('../images/merito-gs.png')!important;
+	background-repeat: no-repeat;	
+	}
+	
+.x-icon-reportar{
+	background-image:url('../images/ui-scroll-pane-blog.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-leer{
+	background-image:url('../images/leer.png')!important;
+	background-repeat: no-repeat;	
+	}
+.x-icon-enviar{
+	background-image:url('../images/enviado.png')!important;
+	background-repeat: no-repeat;	
+	}
+.yellow-row{ background-color:#FFFFF0 !important; }
+.yellow-row-2{ background-color:#FFFFCC !important; }

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="2dea1cb7-6d83-461f-8505-25b47784a8d2" Title="spGengo Plugin" Scope="Site" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="spGengo Plugin\spGengo Plugin.xml" />
+    <ElementFile Location="spGengo Plugin\spGengo Plugin.webpart" />
+  </ElementManifests>
+</Feature>
