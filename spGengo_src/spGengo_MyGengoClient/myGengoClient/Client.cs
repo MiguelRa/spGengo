@@ -164,7 +164,7 @@ namespace myGengo
             try
             {
                 //client.Proxy = _proxy;
-                client.UserAgent = "MiguelRa.MyGengoClient 1.0";
+                client.UserAgent = "myGengo spGengo SharePoint plugin; Version 1.0; https://github.com/MiguelRa/spGengo;";
                            
                 return client.GetResponse();
             }
